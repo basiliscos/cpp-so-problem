@@ -1,0 +1,8 @@
+.
+libs/liba
+libs/liba/src
+libs/libb
+libs/libb/src
+libs/libb/libs/liba2/src
+libs/libb/libs/liba2
+src
